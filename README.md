@@ -1,4 +1,4 @@
-# Natural Video Dynamics Compression: A Generative Approach
+# Compressing Natural Video Dynamics: A Generative Approach
 
 ### Shanzhi Yin&dagger;, Zihan Zhang&dagger; Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
