@@ -8,6 +8,11 @@
 
 <table align="center">
   <tr>
+    <td colspan="3" align="center" style="border: none;">
+      <b>Sequence 006 at 8 kbps</b>
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/0aca478e-252f-42d1-8664-b90a011ee9fc"/>
       <br />
@@ -21,15 +26,27 @@
       <br />
     </td>
   </tr>
-  <tr>
-    <td colspan="3" align="center" style="border: none;">
-      Sequence 006 at 8 kbps, from left to right: Original Sequences, VVC Reconstruction and Proposed Reconstruction
+   <td align="center">
+     Original Sequence
+    </td>
+    <td align="center">
+     VVC Reconstruction
+    </td>
+    <td align="center">
+      GNVDC Reconstruction
     </td>
   </tr>
+  
 </table>
 
 
 <table align="center">
+  <tr>
+    <td colspan="3" align="center" style="border: none;">
+      <b>Sequence 024 at 7 kbps</b>
+    </td>
+  </tr>
+
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/6d95e03c-e6fa-478b-ba9d-95c75a58f300"/>
@@ -44,15 +61,25 @@
       <br />
     </td>
   </tr>
-  <tr>
-    <td colspan="3" align="center" style="border: none;">
-      Sequence 024 at 7 kbps, from left to right: Original Sequences, VVC Reconstruction and Proposed Reconstruction
+  <td align="center">
+     Original Sequence
     </td>
-  </tr>
+    <td align="center">
+     VVC Reconstruction
+    </td>
+    <td align="center">
+      GNVDC Reconstruction
+    </td>
+  
 </table>
 
 
 <table align="center">
+    <tr>
+    <td colspan="3" align="center" style="border: none;">
+      <b>Sequence 029 at 6 kbps</b>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/2a1df68c-6be6-41d1-9a56-90d7012538a0"/>
@@ -68,8 +95,15 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center" style="border: none;">
-      Sequence 029 at 6 kbps, from left to right: Original Sequences, VVC Reconstruction and Proposed Reconstruction
+    <td align="center">
+     Original Sequence
     </td>
+    <td align="center">
+     VVC Reconstruction
+    </td>
+    <td align="center">
+      GNVDC Reconstruction
+    </td>
+    
   </tr>
 </table>
