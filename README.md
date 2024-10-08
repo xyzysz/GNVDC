@@ -1,4 +1,4 @@
-# Compressing Natural Video Dynamics: A Generative Approach
+![034_qp_32](https://github.com/user-attachments/assets/5103e0a4-c6ec-4505-8e9e-c20cacb6c737)# Compressing Natural Video Dynamics: A Generative Approach
 
 ### Shanzhi Yin&dagger;, Zihan Zhang&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
@@ -91,6 +91,42 @@
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/a9b94fa7-8efa-41bd-9ddc-18e76dbcc573"/>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+     Original Sequence
+    </td>
+    <td align="center">
+     VVC Reconstruction
+    </td>
+    <td align="center">
+      GNVDC Reconstruction
+    </td>
+    
+  </tr>
+</table>
+
+
+
+<table align="center">
+    <tr>
+    <td colspan="3" align="center" style="border: none;">
+      <b>Sequence 034 at 5 kbps</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fed5dc43-2dfb-4f12-b7bd-e7ad3b64b92b"/>
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/0a68f251-07e4-480a-9d15-5b6fe23a9015"/>
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fd5baf29-e50a-4544-a358-f165acdf3c08"/>
       <br />
     </td>
   </tr>
