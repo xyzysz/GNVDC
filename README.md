@@ -1,4 +1,4 @@
-![034_qp_32](https://github.com/user-attachments/assets/5103e0a4-c6ec-4505-8e9e-c20cacb6c737)# Compressing Natural Video Dynamics: A Generative Approach
+# Compressing Natural Video Dynamics: A Generative Approach
 
 ### Shanzhi Yin&dagger;, Zihan Zhang&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
