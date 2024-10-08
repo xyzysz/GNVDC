@@ -23,7 +23,53 @@
   </tr>
   <tr>
     <td colspan="3" align="center" style="border: none;">
-      Sequence 006 at 8 kbps, from left to right, Original Sequences, VVC Reconstruction and Proposed Reconstruction
+      Sequence 006 at 8 kbps, from left to right: Original Sequences, VVC Reconstruction and Proposed Reconstruction
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6d95e03c-e6fa-478b-ba9d-95c75a58f300"/>
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c94733dd-d200-4704-82bb-479b01e3dd5a"/>
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2e2e202f-4e7a-440e-997e-e1f67fc629a5"/>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" style="border: none;">
+      Sequence 024 at 7 kbps, from left to right: Original Sequences, VVC Reconstruction and Proposed Reconstruction
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/2a1df68c-6be6-41d1-9a56-90d7012538a0"/>
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/980f4807-296d-4669-b3c5-aa6ec80617df"/>
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a9b94fa7-8efa-41bd-9ddc-18e76dbcc573"/>
+      <br />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" style="border: none;">
+      Sequence 029 at 6 kbps, from left to right: Original Sequences, VVC Reconstruction and Proposed Reconstruction
     </td>
   </tr>
 </table>
