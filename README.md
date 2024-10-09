@@ -43,6 +43,40 @@
 <table align="center">
   <tr>
     <td colspan="3" align="center" style="border: none;">
+      <b>Sequence 031 at 10 kbps</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9dbb0e55-4ecb-4420-8c4c-48048c749ca1"/>
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/50536ce7-04bd-4e31-bbda-d8367f6837a1"/>
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/de35b0d6-73b8-4cd1-a8b5-0e84c6cce5d1"/>
+      <br />
+    </td>
+  </tr>
+
+   <td align="center">
+     Original Sequence
+    </td>
+    <td align="center">
+     VVC Reconstruction
+    </td>
+    <td align="center">
+      GNVDC Reconstruction
+    </td>
+  </tr>
+  
+</table>
+
+<table align="center">
+  <tr>
+    <td colspan="3" align="center" style="border: none;">
       <b>Sequence 006 at 8 kbps</b>
     </td>
   </tr>
