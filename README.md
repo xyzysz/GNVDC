@@ -232,3 +232,10 @@ This paper proposes to learn generative priors from the motion patterns instead 
     
   </tr>
 </table>
+
+## Code Release
+Comming soon..
+
+### :e-mail: Contact
+
+If you have any question or collaboration need (research purpose or commercial purpose), please email `shanzhyin3-c@my.cityu.edu.hk`
