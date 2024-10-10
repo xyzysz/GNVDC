@@ -34,7 +34,7 @@
      VVC Reconstruction
     </td>
     <td align="center">
-      GNVDC Reconstruction
+      Dynamics-Codec Reconstruction
     </td>
   </tr>
   
@@ -68,7 +68,7 @@
      VVC Reconstruction
     </td>
     <td align="center">
-      GNVDC Reconstruction
+      Dynamics-Codec Reconstruction
     </td>
   </tr>
   
@@ -101,7 +101,7 @@
      VVC Reconstruction
     </td>
     <td align="center">
-      GNVDC Reconstruction
+      Dynamics-Codec Reconstruction
     </td>
   </tr>
   
@@ -136,7 +136,7 @@
      VVC Reconstruction
     </td>
     <td align="center">
-      GNVDC Reconstruction
+      Dynamics-Codec Reconstruction
     </td>
   
 </table>
@@ -170,7 +170,7 @@
      VVC Reconstruction
     </td>
     <td align="center">
-      GNVDC Reconstruction
+      Dynamics-Codec Reconstruction
     </td>
     
   </tr>
@@ -206,7 +206,7 @@
      VVC Reconstruction
     </td>
     <td align="center">
-      GNVDC Reconstruction
+      Dynamics-Codec Reconstruction
     </td>
     
   </tr>
