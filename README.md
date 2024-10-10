@@ -4,7 +4,28 @@
 
 #### &dagger; City University of Hong Kong and &sect; Alibaba Group
 
+## Abstruct
+This paper proposes to learn generative priors from the motion patterns instead of video contents for generative video compression. The priors are derived from small motion dynamics in common scenes such as swinging trees in the wind and floating boat on the sea. Utilizing such compact motion priors, a novel generative scene dynamics compression framework is built to realize ultra-low bit-rate communication and high-quality reconstruction for diverse scene contents. At the encoder side, motion priors are characterized into compact representations in a dense-to-sparse manner. At the decoder side, the decoded motion priors serve as the trajectory hints for scene dynamics reconstruction via a diffusion-based flowdriven generator. The experimental results illustrate that the proposed method can achieve superior rate-distortion performance and outperform the state-of-the-art conventional video codec Versatile Video Coding (VVC) on scene dynamics sequences. 
+<table align="center">
+<td align="center">
+<img  width="685" alt="Fig 1" src="https://github.com/user-attachments/assets/42d20b4e-453c-4c60-b5a5-09181f14bad9">
+</td>
+</table>
 
+## Methods
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="679" alt="Fig2" src="https://github.com/user-attachments/assets/488674ab-84ed-4ed5-90ad-550523bf1e13">
+      <br />
+    </td>
+  </tr>
+   <td align="center">
+     Proposed Dynamics-Codec
+    </td>
+  </tr>
+  
+</table>
 
 ## Subjective Quality Demos
 <table align="center">
