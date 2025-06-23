@@ -44,13 +44,13 @@ This paper proposes to learn generative priors from the motion patterns instead 
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7a7c3da4-94ca-48aa-926c-6f6a36e7f584" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/1cddb95f-d5ee-4a1e-9239-6eadd627f11f" width="300" height="300" />
       <br />
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/fc8a0bc6-eb70-4689-938c-4cfe805f18db" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/7450b35e-3f14-4521-8664-f1b79890da55" width="300" height="300" />
       <br />
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/352dbc09-f855-4bd6-ab03-947933485f05" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/6df83771-cc1b-4ca8-97b1-e8604a50f716" width="300" height="300" />
       <br />
     </td>
   </tr>
