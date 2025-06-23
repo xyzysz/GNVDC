@@ -44,7 +44,13 @@ This paper proposes to learn generative priors from the motion patterns instead 
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/0c1f1a42-6831-4f71-a803-291b1f54fd36" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/7a7c3da4-94ca-48aa-926c-6f6a36e7f584" width="300" height="300" />
+      <br />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fc8a0bc6-eb70-4689-938c-4cfe805f18db" width="300" height="300" />
+      <br />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/352dbc09-f855-4bd6-ab03-947933485f05" width="300" height="300" />
       <br />
     </td>
   </tr>
@@ -53,6 +59,12 @@ This paper proposes to learn generative priors from the motion patterns instead 
     </td>
     <td align="center">
      VVC Reconstruction
+    </td>
+  <td align="center">
+     ECM Reconstruction
+    </td>
+  <td align="center">
+     DCVC Reconstruction
     </td>
     <td align="center">
       Dynamics-Codec Reconstruction
