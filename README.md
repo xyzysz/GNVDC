@@ -31,7 +31,7 @@ This paper proposes to learn generative priors from the motion patterns instead 
 <table align="center">
   <tr>
     <td colspan="3" align="center" style="border: none;">
-      <b>Sequence 015 at 15 kbps</b>
+      <b>@ 15 kbps</b>
     </td>
   </tr>
   <tr>
@@ -50,6 +50,10 @@ This paper proposes to learn generative priors from the motion patterns instead 
       <img src="https://github.com/user-attachments/assets/7450b35e-3f14-4521-8664-f1b79890da55" width="300" height="300" />
       <br />
     <td align="center">
+      <img src="https://github.com/user-attachments/assets/e261e75c-f4b9-4320-b7b6-8de923a27e11" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/6df83771-cc1b-4ca8-97b1-e8604a50f716" width="300" height="300" />
       <br />
     </td>
@@ -66,40 +70,9 @@ This paper proposes to learn generative priors from the motion patterns instead 
   <td align="center">
      DCVC Reconstruction
     </td>
-    <td align="center">
-      Dynamics-Codec Reconstruction
-    </td>
-  </tr>
-  
-</table>
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center" style="border: none;">
-      <b>Sequence 031 at 10 kbps</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/9dbb0e55-4ecb-4420-8c4c-48048c749ca1" width="300" height="300" />
-      <br />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/50536ce7-04bd-4e31-bbda-d8367f6837a1" width="300" height="300" />
-      <br />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/de35b0d6-73b8-4cd1-a8b5-0e84c6cce5d1" width="300" height="300" />
-      <br />
-    </td>
-  </tr>
-
    <td align="center">
-     Original Sequence
-    </td>
-    <td align="center">
-     VVC Reconstruction
-    </td>
+   TPSM Reconstruction
+  </td>
     <td align="center">
       Dynamics-Codec Reconstruction
     </td>
@@ -110,20 +83,29 @@ This paper proposes to learn generative priors from the motion patterns instead 
 <table align="center">
   <tr>
     <td colspan="3" align="center" style="border: none;">
-      <b>Sequence 006 at 8 kbps</b>
+      <b>@ 10 kbps</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/0aca478e-252f-42d1-8664-b90a011ee9fc" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/9971daa3-a6df-41a0-a63f-8a4261e06e48" width="300" height="300" />
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ed68ea78-4346-46e4-b938-22fe7fd8e3d6" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/bd214c0d-c2b5-4df6-8324-cbb50418c0c3" width="300" height="300" />
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/351d1d88-88b3-4a3e-b080-6669dd421382" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/f4b16676-28f8-4787-9d35-d18162a5a203" width="300" height="300" />
+      <br />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d786c6b6-08ce-4753-82f1-99aa4e509183" width="300" height="300" />
+      <br />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/34235b46-7801-47fd-862c-5932df0255f4" width="300" height="300" />
+      <br />
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/74835bb4-c481-4ce9-9935-19cf5db03c4c" width="300" height="300" />
       <br />
     </td>
   </tr>
@@ -133,44 +115,19 @@ This paper proposes to learn generative priors from the motion patterns instead 
     <td align="center">
      VVC Reconstruction
     </td>
-    <td align="center">
-      Dynamics-Codec Reconstruction
-    </td>
-  </tr>
-  
-</table>
-
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center" style="border: none;">
-      <b>Sequence 024 at 7 kbps</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/6d95e03c-e6fa-478b-ba9d-95c75a58f300" width="300" height="300" />
-      <br />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/c94733dd-d200-4704-82bb-479b01e3dd5a" width="300" height="300" />
-      <br />
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/2e2e202f-4e7a-440e-997e-e1f67fc629a5" width="300" height="300" />
-      <br />
-    </td>
-  </tr>
   <td align="center">
-     Original Sequence
+     ECM Reconstruction
     </td>
-    <td align="center">
-     VVC Reconstruction
+  <td align="center">
+     DCVC Reconstruction
     </td>
+  <td align="center">
+   TPSM Reconstruction
+  </td>
     <td align="center">
       Dynamics-Codec Reconstruction
     </td>
+  </tr>
   
 </table>
 
@@ -178,7 +135,62 @@ This paper proposes to learn generative priors from the motion patterns instead 
 <table align="center">
     <tr>
     <td colspan="3" align="center" style="border: none;">
-      <b>Sequence 029 at 6 kbps</b>
+      <b>@ at 7 kbps</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/90819098-5a9a-4d2c-a85a-1ced4ccfcf45" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a909d62f-0d37-4bfe-8157-61b6f14c8460" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ac523e72-0e99-4a06-b010-b3a5ff839184" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/02c09e4d-8af0-4cc3-b1c6-4a9ec1543bdf" width="300" height="300" />
+      <br />
+    </td>
+     <td align="center">
+      <img src="https://github.com/user-attachments/assets/65dc2c5c-127f-4ad8-aa6b-8053442dfcc7" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/784aced7-6e76-4bf8-95ea-5376b4e9ebbc" width="300" height="300" />
+      <br />
+    </td>
+  </tr>
+   <tr>
+   <td align="center">
+     Original Sequence
+    </td>
+    <td align="center">
+     VVC Reconstruction
+    </td>
+  <td align="center">
+     ECM Reconstruction
+    </td>
+  <td align="center">
+     DCVC Reconstruction
+    </td>
+     <td align="center">
+   TPSM Reconstruction
+  </td>
+    <td align="center">
+      Dynamics-Codec Reconstruction
+    </td>
+  </tr>
+</table>
+
+
+<table align="center">
+    <tr>
+    <td colspan="3" align="center" style="border: none;">
+      <b>@ 6 kbps</b>
     </td>
   </tr>
   <tr>
@@ -191,21 +203,41 @@ This paper proposes to learn generative priors from the motion patterns instead 
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a9b94fa7-8efa-41bd-9ddc-18e76dbcc573" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/397a000b-2d39-494e-8bb9-9fe6cad14c12" width="300" height="300" />
       <br />
     </td>
-  </tr>
-  <tr>
     <td align="center">
+      <img src="https://github.com/user-attachments/assets/10ba49dc-39ee-4b06-ad20-122882d78cda" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/57608ebd-8336-4498-901b-fcd18a073349" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8756f6a7-088e-44c4-9bc8-18e63f5fba59" width="300" height="300" />
+      <br />
+    </td>
+   </tr>
+   <tr>
+   <td align="center">
      Original Sequence
     </td>
     <td align="center">
      VVC Reconstruction
     </td>
+  <td align="center">
+     ECM Reconstruction
+    </td>
+  <td align="center">
+     DCVC Reconstruction
+    </td>
+    <td align="center">
+   TPSM Reconstruction
+  </td>
     <td align="center">
       Dynamics-Codec Reconstruction
     </td>
-    
   </tr>
 </table>
 
@@ -214,7 +246,7 @@ This paper proposes to learn generative priors from the motion patterns instead 
 <table align="center">
     <tr>
     <td colspan="3" align="center" style="border: none;">
-      <b>Sequence 034 at 5 kbps</b>
+      <b>@ at 5 kbps</b>
     </td>
   </tr>
   <tr>
@@ -227,21 +259,41 @@ This paper proposes to learn generative priors from the motion patterns instead 
       <br />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/fd5baf29-e50a-4544-a358-f165acdf3c08" width="300" height="300" />
+      <img src="https://github.com/user-attachments/assets/04958f01-6d06-4f86-b3f5-f89557f6a31c" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/354f28b7-3726-4752-aea4-60bfd626b2da" width="300" height="300" />
+      <br />
+    </td>
+     <td align="center">
+      <img src="https://github.com/user-attachments/assets/84d1970b-9902-4be3-adb9-b7c1933164d6" width="300" height="300" />
+      <br />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ec29a2fb-bf3f-4a25-b605-e36108974f5b" width="300" height="300" />
       <br />
     </td>
   </tr>
-  <tr>
-    <td align="center">
+   <tr>
+   <td align="center">
      Original Sequence
     </td>
     <td align="center">
      VVC Reconstruction
     </td>
+  <td align="center">
+     ECM Reconstruction
+    </td>
+  <td align="center">
+     DCVC Reconstruction
+    </td>
+     <td align="center">
+   TPSM Reconstruction
+  </td>
     <td align="center">
       Dynamics-Codec Reconstruction
     </td>
-    
   </tr>
 </table>
 
