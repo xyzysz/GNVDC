@@ -1,4 +1,4 @@
-# Compressing Scene Dynamics: A Generative Approach
+# Tokenizing Motion: A Generative Approach for Scene Dynamics Compression
 
 ### Shanzhi Yin&dagger;, Zihan Zhang&dagger;, Bolin Chen&dagger;, Shiqi Wang&dagger; and Yan Ye&sect;
 
